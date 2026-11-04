@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Sou entusiasta da tecnologia, com foco em desenvolvimento Backend, especialmente com Java, Spring Boot e Git. Atualmente, estou aprimorando meus conhecimentos na construção de APIs e aplicações.
+Sou entusiasta da tecnologia, com foco em desenvolvimento Backend, especialmente com Java e Spring Boot. Atualmente, estou aprimorando meus conhecimentos na construção de APIs e aplicações.
 Tenho como objetivo seguir carreira na área de DevOps, buscando ampliar minha visão sobre desenvolvimento de software e os processos que envolvem todo o ciclo de vida de uma aplicação.
 
 ---
