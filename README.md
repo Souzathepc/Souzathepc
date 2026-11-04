@@ -1,16 +1,15 @@
-## Hi there 👋
+## Gustavo Souza
 
-<!--
-**Souzathepc/Souzathepc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Sou entusiasta da tecnologia, com foco em desenvolvimento Backend, especialmente com Java, Spring Boot e Git. Atualmente, estou aprimorando meus conhecimentos na construção de APIs e aplicações.
+Tenho como objetivo seguir carreira na área de DevOps, buscando ampliar minha visão sobre desenvolvimento de software e os processos que envolvem todo o ciclo de vida de uma aplicação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Linguagens e Ferramentas
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
