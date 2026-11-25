@@ -8,6 +8,6 @@ Sou entusiasta da tecnologia, com foco em desenvolvimento Backend, especialmente
 
 ### 🧰 Linguagens e Ferramentas
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img src="assets/profile/toolkit/java.svg" width="142" alt="Java" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
