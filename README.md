@@ -6,8 +6,9 @@ Sou entusiasta da tecnologia, com foco em desenvolvimento Backend, especialmente
 
 ---
 
-### 🧰 Linguagens e Ferramentas
+### 💻 Linguagens e Ferramentas
 
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 
